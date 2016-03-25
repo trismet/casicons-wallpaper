@@ -1,0 +1,81 @@
+{
+	"wallpapers": [
+		{
+			"name": "CasiconsWall1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_wall1.jpg",
+			"dimensions": "1536 x 2048",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Cascade1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_cascade1.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Cascade2",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_cascade2.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Fold1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_fold1.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Outer1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_outer1.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Over1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_over1.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Over2",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_over2.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Panexa1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_panexa1.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "Refold1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_refold1.jpg",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "SwissDrops1",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_swissdrops1.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		},
+		{
+			"name": "SwissDropsTop",
+			"author": "Trismet",
+			"url": "https://raw.githubusercontent.com/trismet/casicons-wallpaper/master/casicons_swissdrops_top.png",
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 Trismet. All rights reserved."
+		}
+	]
+}
